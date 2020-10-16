@@ -301,8 +301,10 @@ ul {
      height: 100px;
      line-height: 35px;
     padding: 0;
-
-   }
-
-
+ }
+  .parrafo {
+      text-align: center;
+    }
+  
+   
 }
